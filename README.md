@@ -61,6 +61,7 @@ As capturas de tela e os resultados dos testes estão organizados nas pastas des
 ## 📚 Aprendizados
 
 O projeto proporcionou conhecimentos práticos sobre reconhecimento de rede, autenticação, enumeração de serviços, vulnerabilidades e medidas de prevenção.
+Obrigado. 
 
 ## ⚠️ Aviso
 
